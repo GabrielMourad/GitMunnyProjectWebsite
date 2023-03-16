@@ -70,7 +70,7 @@ function App() {
         <li>API Integration</li>
       </ul>
 
-      <img src="https://cdn.discordapp.com/attachments/1013580066309017603/1024099213019185212/Snapchat-866511628.jpg" />
+      <img className = "bergio" src="https://cdn.discordapp.com/attachments/1013580066309017603/1024099213019185212/Snapchat-866511628.jpg" />
 
     </div>
 
